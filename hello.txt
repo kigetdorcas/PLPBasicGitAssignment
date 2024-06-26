@@ -1,0 +1,12 @@
+Hello git .To however is going ro read this i hope you are doing okay .Always remember to celebrate yourself!hoping to learn more here!
+
+
+This are the steps that i used 
+1.i created a new github repository
+2.i went to gitbash and created a folder (mkdir PLPBASICGITASSIGNMENT)
+3.i then initialized the new git repository in my local folder (i git clone the git repository code)
+4.I opened vs code(code .) and created a new file hello.txt In the file i added a greeting message and document the steps for this assignment.
+5. i commited changes (git add, git commit -m hello.txt)
+6.i then pushed the changes to github (git push origin main)
+7. i then refreshed my github account and submitted the code (the assignment)
+THE END.
